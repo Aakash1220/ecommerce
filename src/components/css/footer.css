@@ -1,0 +1,26 @@
+footer{
+font-size: 12px;
+color: rgb(106, 99, 99);
+margin-top: 2rem;
+}
+.footer__info,.footer_list{
+    display: flex;
+    align-items: flex-start;
+}
+.footer__info{
+width: 100%;
+justify-content: space-evenly;
+}
+.footer_list h4{
+    margin: 0;
+    padding: 3px 0px;
+}
+ul{
+    padding: 0;
+}
+.footer_list{
+    width: 17rem;
+    flex-direction: column;
+    justify-content: flex-start;
+  
+}
